@@ -1,0 +1,220 @@
+Listagem de caminhos de pasta para o volume Dados
+O n£mero de s‚rie do volume ‚ 000000D4 4A3E:5964
+D:.
+|   bg.png
+|   bgBeforFooter.bkp.png
+|   bgFooter.png
+|   bgTop.jpg
+|   bg_footer.jpg
+|   bizPic.bkp.png
+|   bizPic.png
+|   blank.gif
+|   camera-loader.gif
+|   camera_skins.png
+|   cir.png
+|   footer_black.png
+|   horL.png
+|   line7Bg.jpg
+|   line7Bg.psd
+|   lista.txt
+|   logo.png
+|   sliderL.png
+|   socIcons.png
+|   upBefor.png
+|   
++---arquibancada
+|       pic.psd
+|       pic1.jpg
+|       pic2.jpg
+|       pic3.jpg
+|       pic4.jpg
+|       pic5.jpg
+|       pic6.jpg
+|       pic7.jpg
+|       pic8.jpg
+|       pic9.jpg
+|       thumb_pic.psd
+|       thumb_pic1.jpg
+|       thumb_pic2.jpg
+|       thumb_pic3.jpg
+|       thumb_pic4.jpg
+|       thumb_pic5.jpg
+|       thumb_pic6.jpg
+|       thumb_pic7.jpg
+|       thumb_pic8.jpg
+|       thumb_pic9.jpg
+|       
++---estrutura_principal
+|   |   pic.psd
+|   |   pic1.jpg
+|   |   pic10.jpg
+|   |   pic11.jpg
+|   |   pic12.jpg
+|   |   pic13.jpg
+|   |   pic14.jpg
+|   |   pic2.jpg
+|   |   pic3.jpg
+|   |   pic4.jpg
+|   |   pic5.jpg
+|   |   pic6.jpg
+|   |   pic7.jpg
+|   |   pic8.jpg
+|   |   pic9.jpg
+|   |   thumb_pic.psd
+|   |   thumb_pic1.jpg
+|   |   thumb_pic10.jpg
+|   |   thumb_pic11.jpg
+|   |   thumb_pic12.jpg
+|   |   thumb_pic13.jpg
+|   |   thumb_pic14.jpg
+|   |   thumb_pic2.jpg
+|   |   thumb_pic3.jpg
+|   |   thumb_pic4.jpg
+|   |   thumb_pic5.jpg
+|   |   thumb_pic6.jpg
+|   |   thumb_pic7.jpg
+|   |   thumb_pic8.jpg
+|   |   thumb_pic9.jpg
+|   |   
+|   \---BKP
++---fechamento
+|       pic.psd
+|       pic1.jpg
+|       pic2.jpg
+|       pic3.jpg
+|       pic4.jpg
+|       pic5.jpg
+|       pic6.jpg
+|       pic7.jpg
+|       pic8.jpg
+|       thumb_pic.psd
+|       thumb_pic1.jpg
+|       thumb_pic2.jpg
+|       thumb_pic3.jpg
+|       thumb_pic4.jpg
+|       thumb_pic5.jpg
+|       thumb_pic6.jpg
+|       thumb_pic7.jpg
+|       thumb_pic8.jpg
+|       
++---passarela
+|       pic.psd
+|       pic1.jpg
+|       pic2.jpg
+|       pic3.jpg
+|       thumb_pic.psd
+|       thumb_pic1.jpg
+|       thumb_pic2.jpg
+|       thumb_pic3.jpg
+|       
++---picAbout
+|       aboutP1.png
+|       aboutP2.png
+|       aboutP3.png
+|       aboutP4.png
+|       
++---picNews
+|       news1.jpg
+|       news2.jpg
+|       news3.jpg
+|       news4.jpg
+|       news5.jpg
+|       news6.jpg
+|       
++---picTeam
+|       picT1.png
+|       picT2.png
+|       picT3.png
+|       
++---prettyPhoto
+|   +---dark_rounded
+|   |       btnNext.png
+|   |       btnPrevious.png
+|   |       contentPattern.png
+|   |       default_thumbnail.gif
+|   |       loader.gif
+|   |       sprite.png
+|   |       
+|   +---dark_square
+|   |       btnNext.png
+|   |       btnPrevious.png
+|   |       contentPattern.png
+|   |       default_thumbnail.gif
+|   |       loader.gif
+|   |       sprite.png
+|   |       
+|   +---default
+|   |       default_thumb.png
+|   |       loader.gif
+|   |       sprite.png
+|   |       sprite_next.png
+|   |       sprite_prev.png
+|   |       sprite_x.png
+|   |       sprite_y.png
+|   |       
+|   +---facebook
+|   |       btnNext.png
+|   |       btnPrevious.png
+|   |       contentPatternBottom.png
+|   |       contentPatternLeft.png
+|   |       contentPatternRight.png
+|   |       contentPatternTop.png
+|   |       default_thumbnail.gif
+|   |       loader.gif
+|   |       sprite.png
+|   |       
+|   +---light_rounded
+|   |       btnNext.png
+|   |       btnPrevious.png
+|   |       default_thumbnail.gif
+|   |       loader.gif
+|   |       sprite.png
+|   |       
+|   \---light_square
+|           btnNext.png
+|           btnPrevious.png
+|           default_thumbnail.gif
+|           loader.gif
+|           sprite.png
+|           
++---prettyPhotoImages
+|   |   pic1.jpg
+|   |   pic2.jpg
+|   |   pic3.jpg
+|   |   pic4.jpg
+|   |   pic5.jpg
+|   |   pic6.jpg
+|   |   pic7.jpg
+|   |   pic8.jpg
+|   |   pic9.jpg
+|   |   thumb_pic1.jpg
+|   |   thumb_pic2.jpg
+|   |   thumb_pic3.jpg
+|   |   thumb_pic4.jpg
+|   |   thumb_pic5.jpg
+|   |   thumb_pic6.jpg
+|   |   thumb_pic7.jpg
+|   |   thumb_pic8.jpg
+|   |   thumb_pic9.jpg
+|   |   
+|   \---111
+|           pic1.jpg
+|           pic2.jpg
+|           pic3.jpg
+|           pic4.jpg
+|           pic5.jpg
+|           pic6.jpg
+|           pic7.jpg
+|           pic8.jpg
+|           pic9.jpg
+|           
+\---slides
+    |   blank.gif
+    |   
+    +---thumbs
+    |   \---_notes
+    |           dwsync.xml
+    |           
+    \---_notes
+            dwsync.xml
+            
