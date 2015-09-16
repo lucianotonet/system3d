@@ -17,19 +17,34 @@
 				<a id="features"></a>				
 				<p>Estamos à disposição para esclarecer qualquer dúvida.</p>
 				</div>
+				<div class="col-md-12">	
+					<div class="collapse" id="contatcs">
+						<div class="well">
+							...
+							...
+							...
+						</div>
+					</div>			
+				</div>
 				<div class="cBtn">
-					<ul style="margin-top: 23px; margin-bottom: 0px; padding-left: 26px;">
-						<li class="dowbload">
+					<ul style="margin-top: 5px; margin-bottom: 0px; padding-left: 26px;">
+						<!-- <li class="dowbload">
 							<a href="http://nucleo.eng.br"><i class="fa fa-link"></i>Acesse nosso site</a>
-						</li>
-						<li class="buy">
-							<a href="http://nucleo.eng.br/site/?page_id=31"><i class="fa fa-envelope"></i>Fale conosco</a>
+						</li> -->
+						<li class="buy" role="button" data-toggle="collapse" href="#contatcs" aria-expanded="false" aria-controls="contatcs">
+							<a href="#"> Fale conosco </a>
 						</li>
 					</ul>
 					<br>
-					<small>Ou confira<a href="http://marketing.nucleo.eng.br/campanha001" class="btn-link btn-sm">outras tipologias de projetos</a></small>
+					<!-- <small>Ou confira<a href="http://marketing.nucleo.eng.br/campanha001" class="btn-link btn-sm">outras tipologias de projetos</a></small> -->
 				</div>
-				<div class="col-md-12">				
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					
 				</div>
 			</div>
 		</div>
