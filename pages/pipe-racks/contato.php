@@ -31,7 +31,7 @@
 				<div class="row downLine">
 
 					<div class="col-md-6 text-left copy">
-						<p>Copyright &copy; 2014 <strong>Núcleo - Projetos Executivos</strong>. Todos os direitos reservado.</p>
+						<p>Copyright &copy; 2014 <strong>System3D</strong>. Todos os direitos reservado.</p>
 					</div>
 					<div class="col-md-6 text-right dm">
 						<ul id="downMenu">			

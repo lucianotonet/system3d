@@ -6,7 +6,7 @@
 						<br>
 						<br>
 					<a id="contato"></a>
-					<img src="images/base.png" alt="" class="img-reponsive">
+					<img src="images/logo-contact.png" alt="" class="img-reponsive">
 					</div>
 				</div>
 			</div>
@@ -39,7 +39,7 @@
 				<div class="row downLine">
 
 					<div class="col-md-6 text-left copy">
-						<p><strong>Núcleo - Projetos Executivos</strong> &copy; <?php echo date('Y') ?>. Todos os direitos reservados.</p>
+						<p><strong>System 3D</strong> &copy; <?php echo date('Y') ?>. Todos os direitos reservados.</p>
 					</div>
 					<div class="col-md-6 text-right dm">
 						<ul id="downMenu">										
